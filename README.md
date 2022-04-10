@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Firebase-FF6A00?style=for-the-badge&logo=Firebase&logoColor=white"/> 
   </div>
    <br>
-   <h3> About more </h2>
+   <h3> About More </h2>
   <div>
     <a href="https://www.notion.so/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b"/>
