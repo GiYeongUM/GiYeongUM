@@ -38,11 +38,16 @@
     </a>
   </div>
   </br>
-    <a href="https://github.com/GiYeongUM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiYeongUM" />
-  </a>
+  <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=GiYeongUM&hide_border=false&theme=nightowl" />
+  </p>
+  <p align="center">
+  <img height='130px' src="https://github-readme-stats.vercel.app/api?username=GiYeongUM&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=nightowl" />
+  </p>
+
+
   <a href="https://github.com/GiYeongUM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiYeongUM&langs_count=3" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiYeongUM&langs_count=5" />
   </a>
   
  
