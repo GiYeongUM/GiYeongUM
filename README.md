@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/PersonalLogo.png" width = "250px"/><br/>
+  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/PersonalLogo.svg" width = "250px"/><br/>
    「 Hi there! I'm GiYeongUM 👋 」
 </h1>
 <div align="center">
