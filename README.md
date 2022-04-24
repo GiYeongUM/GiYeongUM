@@ -6,6 +6,9 @@
   <br>
    「 Hi there! I'm GiYeongUM 👋 」
 </h1>
+<br>
+ about me : https://giyeongum.github.io/web
+ <br>
 <div align="center">
   <h3> Dev Platform </h2>
   <div>
