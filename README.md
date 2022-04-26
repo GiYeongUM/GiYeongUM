@@ -7,7 +7,8 @@
    「 Hi there! I'm GiYeongUM 👋 」
 </h1>
 <br>
- about me : https://giyeongum.github.io/web
+<h3> about me : https://giyeongum.github.io/web </h2>
+ 
  <br>
 <div align="center">
   <h3> Dev Platform </h2>
