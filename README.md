@@ -8,7 +8,7 @@
 </h1>
 <br>
 <div align="center">
-<h3> about me <br> https://giyeongum.github.io/web </h2>
+<h3> about me <br><br> https://giyeongum.github.io/web <br></h2>
   </div>
  
  <br>
