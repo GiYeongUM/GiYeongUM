@@ -28,7 +28,7 @@
     <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/modakIcon.png" width = "100px"/>
   </a>
   <a href="https://www.notion.so/giyeong-um/All-Y-92102ee1a83148dc99ad84578f8822f4">
-    <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/allYIcon.png" width = "100px"/>
+    <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/allY.png" width = "100px"/>
   </a>
   
   <a href="https://giyeong-um.notion.site/e-978b1ca52fc9457990786a59953b4b75">
