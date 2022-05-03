@@ -25,7 +25,7 @@
   <br>
   <br> 
   <a href="https://play.google.com/store/apps/details?id=com.modakmodak.modakmodak_app&hl=ko">
-    <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/modakIcon.png" width = "100px"/>
+    <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/modakIcon2.png" width = "100px"/>
   </a>
   <a href="https://www.notion.so/giyeong-um/All-Y-92102ee1a83148dc99ad84578f8822f4">
     <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/allYIcon.png" width = "100px"/>
