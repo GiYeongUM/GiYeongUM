@@ -24,12 +24,28 @@
  <h3> Projects
   <br>
   <br> 
-  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/modakIcon.png" width = "100px"/>
-  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/allYIcon.png" width = "100px"/>
-  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/e-MilitaryIcon.png" width = "100px"/>
+  <a href="https://play.google.com/store/apps/details?id=com.modakmodak.modakmodak_app&hl=ko">
+    <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/modakIcon.png" width = "100px"/>
+  </a>
+  <a href="https://www.notion.so/giyeong-um/All-Y-92102ee1a83148dc99ad84578f8822f4">
+    <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/allYIcon.png" width = "100px"/>
+  </a>
+  
+  <a href="https://giyeong-um.notion.site/e-978b1ca52fc9457990786a59953b4b75">
+    <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/e-MilitaryIcon.png" width = "100px"/>
+  </a>
+ 
+  <a href="https://www.notion.so/giyeong-um/db72cbfd61c64b7d9cebbdefa4e29d8e">
   <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/brandCareIcon.png" width = "100px"/>
+  </a>
+  
+  <a href="https://www.notion.so/giyeong-um/9851dd4335bc45cd8d5b93c92286d03b">
   <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/shareFitIcon.png" width = "100px"/>
+  </a>
+  
+  <a href="https://www.notion.so/giyeong-um/75a73fab87984380a853a5e07f417765">
   <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/porcheIcon.png" width = "100px"/>
+  </a>
   <br></h2>
   </div>
  <br>
