@@ -16,9 +16,22 @@
  (주)라온스토리 (2021-08 ~ ) Flutter, Native APP Engineer 산업기능요원 보충역 복무시작 (2021.12)<br>
   </div>
 <div align="left">
-<h3> about me <br><br> https://giyeongum.github.io/web <br></h2>
+<h3> about me 
+  <br>
+  <br> https://giyeongum.github.io/web <br></h2>
   </div>
- 
+ <br>
+ <h3> Projects
+  <br>
+  <br> 
+  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/modakIcon.png" width = "100px"/>
+  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/allYIcon.png" width = "100px"/>
+  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/e-MilitaryIcon.png" width = "100px"/>
+  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/brandCareIcon.png" width = "100px"/>
+  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/shareFitIcon.png" width = "100px"/>
+  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/porcheIcon.png" width = "100px"/>
+  <br></h2>
+  </div>
  <br>
 <div align="center">
   <h3> Dev Platform </h2>
