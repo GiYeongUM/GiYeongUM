@@ -46,6 +46,11 @@
   <a href="https://www.notion.so/giyeong-um/75a73fab87984380a853a5e07f417765">
   <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/porsche.png" width = "100px"/>
   </a>
+  <a href="https://giyeong-um.notion.site/024e1ede25af448db67f8e36977882cb">
+47
+  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/m_doctor.png" width = "100px"/>
+48
+  </a>
   <br></h2>
   </div>
  <br>
