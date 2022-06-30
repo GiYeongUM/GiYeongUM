@@ -47,10 +47,10 @@
   <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/porsche.png" width = "100px"/>
   </a>
   <a href="https://giyeong-um.notion.site/024e1ede25af448db67f8e36977882cb">
-  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/m_doctor_b2c.png" width = "100px"/>
+  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/m_doctor_b2c_icon.png" width = "100px"/>
   </a>
   <a href="https://giyeong-um.notion.site/024e1ede25af448db67f8e36977882cb">
-  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/m_doctor_b2b.png" width = "100px"/>
+  <img src = "https://github.com/GiYeongUM/GiYeongUM/blob/main/m_doctor_b2b_icon.png" width = "100px"/>
   </a>
   <br></h2>
   </div>
