@@ -5,7 +5,7 @@
   <br>
   <br>
 <div align="left">Hi there! I'm GiYeongUM 👋,
-  <br>a cross-platform app developer 👨‍💻 working since 2020</div>  
+  <br>a cross-platform app developer / Project Leader 👨‍💻 working since 2020</div>  
 </h1>
 <br>
   <div align="left">
