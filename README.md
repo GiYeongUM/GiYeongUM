@@ -22,6 +22,7 @@
   <h3> flutter packages
   <br>
   <br> https://pub.dev/packages/awesome_flutter_widgets <br>
+  <br> https://pub.dev/packages/icon_animated <br>
 </h2>
 
   </div>
