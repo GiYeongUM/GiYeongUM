@@ -19,7 +19,7 @@
 <h3> about me 
   <br>
   <br> https://giyeongum.github.io/web <br></h2>
-  <h3> flutter packages
+  <h3> my flutter packages
   <br>
   <br> https://pub.dev/packages/awesome_flutter_widgets <br>
   <br> https://pub.dev/packages/icon_animated <br>
