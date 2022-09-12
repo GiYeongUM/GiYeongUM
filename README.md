@@ -24,6 +24,7 @@
   <br> https://pub.dev/packages/awesome_flutter_widgets <br>
   <br> https://pub.dev/packages/icon_animated <br>
   <br> https://pub.dev/packages/nhn_payment <br>
+  <br> https://github.com/GiYeongUM/lettering_text <br>
 </h2>
 
   </div>
