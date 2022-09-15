@@ -5,7 +5,9 @@
   <br>
   <br>
 <div align="left">Hi there! I'm GiYeongUM 👋,
-  <br>a cross-platform app developer / Project Leader 👨‍💻 working since 2020</div>  
+  <br>Cross-platform APP / Backend Developer
+  <br/>👨‍💻 working since 2020
+</div>  
 </h1>
 <br>
   <div align="left">
@@ -13,7 +15,7 @@
 <br></h2>
  (주)웨이테크 (2020-07 ~ 2020-09) Android APP Engineer 현장실습 근무<br>
  (주)웨이테크 (2020-12 ~ 2021-07) Flutter APP Engineer 솔루션 앱 개발 근무<br>
- (주)라온스토리 (2021-08 ~ ) Flutter, Native APP Engineer, Project Leader 산업기능요원 보충역 복무시작 (2021.12)<br>
+ (주)라온스토리 (2021-08 ~ ) Flutter, Native APP Engineer, Backend Engineer, Project Leader 산업기능요원 보충역 복무시작 (2021.12)<br>
   </div>
 <div align="left">
 <h3> about me 
@@ -69,6 +71,7 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flutter-03a9f4?style=for-the-badge&logo=Flutter&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Nestjs-EA2845?style=for-the-badge&logo=Nestjs&logoColor=white"/>
   </div>
   <br>
   <h3> Dev Language </h2>
@@ -78,6 +81,7 @@
     <img src="https://img.shields.io/badge/Kotlin-B75EA4?style=for-the-badge&logo=Kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&logo=Dart&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/TYPESCRIPT-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
    
   </div>
     <br>
