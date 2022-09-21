@@ -18,14 +18,12 @@
 <br>
 
 # Hi there! I'm GiYeongUM 👋
-- ### `Cross-platform APP Developer` <sup>Flutter</sup>
-- ### `Backend Developer` <sup>Nest.js</sup>
-- ### `Project Leader`
+- #### `Cross-platform APP Developer` <sup>Flutter</sup>
+- #### `Backend Developer` <sup>Nest.js</sup>
+- #### `Project Leader`
 
 
 # Career
-
-
 
 - `(주)웨이테크` (2020-07 ~ 2020-09) Android APP Engineer 현장실습 근무<br>
 - `(주)웨이테크` (2020-12 ~ 2021-07) Flutter APP Engineer 솔루션 앱 개발 근무<br>
@@ -41,7 +39,7 @@
 <br>
 
 
-> ## My flutter packages
+> ### My flutter packages
 >1. [awesome_flutter_widgets](https://pub.dev/packages/awesome_flutter_widgets) <sub> pub.dev </sub>
 >2. [icon_animated](https://pub.dev/packages/icon_animated) <sub> pub.dev </sub>
 >3. [nhn_payment](https://pub.dev/packages/nhn_payment) <sub> pub.dev </sub>
@@ -65,7 +63,7 @@
 <br>
 <br>
 
-## <div align="center"> Dev Platform
+### <div align="center"> Dev Platform
 
 <div align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
@@ -75,7 +73,7 @@
 </div>
 <br><br>
 
-## <div align="center"> Dev Language
+### <div align="center"> Dev Language
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=Java&logoColor=white"/>
@@ -86,7 +84,7 @@
 </div>
 <br><br>
 
-## <div align="center"> Dev Skills
+### <div align="center"> Dev Skills
 
 <div align="center">
 <img src="https://img.shields.io/badge/JetPack-4285F4?style=for-the-badge&logo=JetPackCompose&logoColor=white"/>
@@ -97,7 +95,7 @@
 <br><br>
 
 
-## <div align="center"> About More
+### <div align="center"> About More
 
 <div align="center">
 <a href="https://www.notion.so/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b">
