@@ -27,7 +27,8 @@
 
 - `(주)웨이테크` (2020-07 ~ 2020-09) Android APP Engineer 현장실습 근무<br>
 - `(주)웨이테크` (2020-12 ~ 2021-07) Flutter APP Engineer 솔루션 앱 개발 근무<br>
-- `(주)라온스토리` (2021-08 ~ ) Flutter, Native APP Engineer, Backend Engineer, Project Leader 산업기능요원 보충역 복무시작 (2021.12)<br>
+- `(주)라온스토리` (2021-08 ~ ) Flutter-Native APP Engineer, Backend Engineer, Project Leader 산업기능요원 보충역 복무시작 (2021.12)
+<br>
 <br>
 
 # About me
@@ -63,7 +64,7 @@
 <br>
 <br>
 
-### <div align="center"> Dev Platform
+### <div align="center"> 💻 Dev Platform
 
 <div align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
@@ -73,7 +74,7 @@
 </div>
 <br><br>
 
-### <div align="center"> Dev Language
+### <div align="center"> 🖥 Dev Language
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=Java&logoColor=white"/>
@@ -84,7 +85,7 @@
 </div>
 <br><br>
 
-### <div align="center"> Dev Skills
+### <div align="center"> 🍳 Dev Skills
 
 <div align="center">
 <img src="https://img.shields.io/badge/JetPack-4285F4?style=for-the-badge&logo=JetPackCompose&logoColor=white"/>
@@ -94,8 +95,19 @@
 </div>
 <br><br>
 
+### <div align="center"> 🔧 Tools
 
-### <div align="center"> About More
+<div align="center">
+<img src="https://img.shields.io/badge/Intellij-F83360?style=for-the-badge&logo=IntellijIDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Webstorm-11B2BA?style=for-the-badge&logo=Webstorm&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataGrip-4FC1AA?style=for-the-badge&logo=DataGrip&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-2684FF?style=for-the-badge&logo=Jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"/>
+</div>
+<br><br>
+
+
+### <div align="center"> ✒️ About More
 
 <div align="center">
 <a href="https://www.notion.so/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b">
