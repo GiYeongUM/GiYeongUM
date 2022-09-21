@@ -35,7 +35,7 @@
 
 
 
-### [Personal notion page](https://www.notion.so/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b) <sub> notion.so </sub>
+### [Personal notion page](https://giyeong-um.notion.site/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b) <sub> notion.so </sub>
 ### [Portfolio webpage with flutter](https://giyeongum.github.io/web) <sub> github.io </sub>
 <br>
 
@@ -53,11 +53,11 @@
 
 <br>
 <a href="https://play.google.com/store/apps/details?id=com.modakmodak.modakmodak_app&hl=ko"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/modakIcon.png" width = "100px"/></a>
-<a href="https://www.notion.so/giyeong-um/All-Y-92102ee1a83148dc99ad84578f8822f4"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/allY.png" width = "100px"/></a>
+<a href="https://giyeong-um.notion.site/All-Y-92102ee1a83148dc99ad84578f8822f4"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/allY.png" width = "100px"/></a>
 <a href="https://giyeong-um.notion.site/e-978b1ca52fc9457990786a59953b4b75"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/e-Militery.png" width = "100px"/></a>
-<a href="https://www.notion.so/giyeong-um/db72cbfd61c64b7d9cebbdefa4e29d8e"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/brandCareIcon.png" width = "100px"/></a>
-<a href="https://www.notion.so/giyeong-um/9851dd4335bc45cd8d5b93c92286d03b"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/shareFitIcon.png" width = "100px"/></a>
-<a href="https://www.notion.so/giyeong-um/75a73fab87984380a853a5e07f417765"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/porsche.png" width = "100px"/></a>
+<a href="https://giyeong-um.notion.site/db72cbfd61c64b7d9cebbdefa4e29d8e"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/brandCareIcon.png" width = "100px"/></a>
+<a href="https://giyeong-um.notion.site/9851dd4335bc45cd8d5b93c92286d03b"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/shareFitIcon.png" width = "100px"/></a>
+<a href="https://giyeong-um.notion.site/75a73fab87984380a853a5e07f417765"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/porsche.png" width = "100px"/></a>
 <a href="https://giyeong-um.notion.site/024e1ede25af448db67f8e36977882cb"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/m_doctor_b2c_icon.png" width = "100px"/></a>
 <a href="https://giyeong-um.notion.site/024e1ede25af448db67f8e36977882cb"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/m_doctor_b2b_icon.png" width = "100px"/></a>
 <br>
@@ -110,7 +110,7 @@
 ### <div align="center"> ✒️ About More
 
 <div align="center">
-<a href="https://www.notion.so/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b">
+<a href="https://giyeong-um.notion.site/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b"/></a>
 <a href="mailto:eomky2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eomky2005@gmail.com"/></a>
