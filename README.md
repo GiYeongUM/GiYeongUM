@@ -1,15 +1,15 @@
-# <div style="text-align: center;">_GiYeongUM Profile_</div>
+# <div align="center">_GiYeongUM Profile_</div>
 
 
 
 <br>
 <br>
-<div style="text-align: center;"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/PersonalLogo.svg" width = "250px"/><br/></div>
+<div align="center"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/PersonalLogo.svg" width = "250px"/><br/></div>
 
 <br>
 <br>
 
-<div style="text-align: center;">
+<div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGiYeongUM&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Fgiyeong-um%2FGiYeong-UM-96900dd715754b619a795d43aaa1d85b&count_bg=%23E70E0D&title_bg=%23FF2121&icon=notion.svg&icon_color=%23E7E7E7&title=Notion&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -67,7 +67,7 @@
 
 ## <div align="center"> Dev Platform
 
-<div style="text-align: center;">
+<div align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-03a9f4?style=for-the-badge&logo=Flutter&logoColor=white"/> 
@@ -77,7 +77,7 @@
 
 ## <div align="center"> Dev Language
 
-<div style="text-align: center;">
+<div align="center">
 <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-B75EA4?style=for-the-badge&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/> 
@@ -88,7 +88,7 @@
 
 ## <div align="center"> Dev Skills
 
-<div style="text-align: center;">
+<div align="center">
 <img src="https://img.shields.io/badge/JetPack-4285F4?style=for-the-badge&logo=JetPackCompose&logoColor=white"/>
 <img src="https://img.shields.io/badge/SwiftUI-00529B?style=for-the-badge&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/RxDart-000000?style=for-the-badge&logo=Dart&logoColor=white"/> 
@@ -99,7 +99,7 @@
 
 ## <div align="center"> About More
 
-<div style="text-align: center;">
+<div align="center">
 <a href="https://www.notion.so/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b"/></a>
 <a href="mailto:eomky2005@gmail.com">
@@ -107,10 +107,10 @@
 </div>
 <br><br>
 
-<div style="text-align: center;"> <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=GiYeongUM&hide_border=false&theme=nightowl"/> </div>
+<div align="center"> <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=GiYeongUM&hide_border=false&theme=nightowl"/> </div>
 <br>
-<div style="text-align: center;"> <img height='130px' src="https://github-readme-stats.vercel.app/api?username=GiYeongUM&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=nightowl"/> </div>
+<div align="center"> <img height='130px' src="https://github-readme-stats.vercel.app/api?username=GiYeongUM&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=nightowl"/> </div>
 <br>
-<div style="text-align: center;"><a href="https://github.com/GiYeongUM"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiYeongUM&langs_count=5"/></a></div>
+<div align="center"><a href="https://github.com/GiYeongUM"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiYeongUM&langs_count=5"/></a></div>
 
 
