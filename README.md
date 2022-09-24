@@ -3,7 +3,7 @@
 <div align="center"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/PersonalLogo.svg" width = "250px"/><br/></div>
 <br><br>
 
-<div align="center">
+<div align="center"> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGiYeongUM&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Fgiyeong-um%2FGiYeong-UM-96900dd715754b619a795d43aaa1d85b&count_bg=%23E70E0D&title_bg=%23FF2121&icon=notion.svg&icon_color=%23E7E7E7&title=Notion&edge_flat=false)](https://hits.seeyoufarm.com)
