@@ -89,7 +89,7 @@
 
 ### <div align="center"> ✒️ About More
 <div align="center">
-<a href="https://giyeong-um.notion.site/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b">
+<a href="https://giyeong-um.notion.site/">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b"/></a>
 <a href="mailto:eomky2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eomky2005@gmail.com"/></a>
