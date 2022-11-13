@@ -19,7 +19,7 @@
 # Career
 - `(주)웨이테크` (2020-07 ~ 2020-09) Android APP Engineer 현장실습 근무<br>
 - `(주)웨이테크` (2020-12 ~ 2021-07) Flutter APP Engineer 솔루션 앱 개발 근무<br>
-- `(주)라온스토리` (2021-08 ~ ) Flutter-Native APP Engineer, Backend Engineer, Project Leader 산업기능요원 보충역 복무시작 (2021.12)
+- `(주)라온스토리` (2021-08 ~ ) Flutter/Android/iOS APP Engineer, Backend Engineer, Project Leader 산업기능요원 보충역 복무시작 (2021.12)
 <br>
 <br>
 
