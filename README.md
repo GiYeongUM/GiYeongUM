@@ -37,6 +37,8 @@
 
 # Projects
 <br>
+
+<div align="center">
 <a href="https://play.google.com/store/apps/details?id=com.modakmodak.modakmodak_app&hl=ko"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/modakIcon.png" width = "150px"/></a>
 <a href="https://giyeong-um.notion.site/All-Y-92102ee1a83148dc99ad84578f8822f4"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/allY.png" width = "150px"/></a>
 <a href="https://giyeong-um.notion.site/e-978b1ca52fc9457990786a59953b4b75"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/e-Militery.png" width = "150px"/></a>
@@ -47,7 +49,7 @@
 <a href="https://giyeong-um.notion.site/024e1ede25af448db67f8e36977882cb"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/m_doctor_b2b_icon.png" width = "150px"/></a>
 <a href="https://giyeong-um.notion.site/359dda65d3174816b95ecff13ba05064"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/west_power.png" width = "150px"/></a>
 <a href="https://giyeong-um.notion.site/LG-CNS-018478a75ff64437a292c300af2d4b84"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/lg_cns.png" width = "150px"/></a>
-
+</div>
 <br><br><br>
 
 ### <div align="center"> 💻 Dev Platform
