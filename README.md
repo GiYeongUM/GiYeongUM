@@ -29,8 +29,8 @@
 
 
 > ### My flutter packages 
->1. [awesome_flutter_widgets](https://pub.dev/packages/awesome_flutter_widgets) <sub> pub.dev </sub>
->2. [icon_animated](https://pub.dev/packages/icon_animated) <sub> pub.dev </sub>
+>1. [icon_animated](https://pub.dev/packages/icon_animated) <sub> pub.dev </sub>
+>2. [flutter_icon_dialog](https://pub.dev/packages/flutter_icon_dialog) <sub> pub.dev </sub>
 >3. [nhn_payment](https://pub.dev/packages/nhn_payment) <sub> pub.dev </sub>
 >4. [lettering_text](https://github.com/GiYeongUM/lettering_text) <sub> github.com </sub>
 <br>
