@@ -48,9 +48,11 @@
 <a href="https://giyeong-um.notion.site/9851dd4335bc45cd8d5b93c92286d03b"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/shareFitIcon.png" width = "150px"/></a>
 <a href="https://giyeong-um.notion.site/75a73fab87984380a853a5e07f417765"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/porsche.png" width = "150px"/></a>
 <a href="https://giyeong-um.notion.site/024e1ede25af448db67f8e36977882cb"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/m_doctor_b2c_icon.png" width = "150px"/></a>
-<a href="https://giyeong-um.notion.site/024e1ede25af448db67f8e36977882cb"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/m_doctor_b2b_icon.png" width = "150px"/></a>
 <a href="https://giyeong-um.notion.site/359dda65d3174816b95ecff13ba05064"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/west_power.png" width = "150px"/></a>
 <a href="https://giyeong-um.notion.site/LG-CNS-018478a75ff64437a292c300af2d4b84"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/lg_cns.png" width = "150px"/></a>
+<a href="https://giyeong-um.notion.site/5c57bab7f9104ee1ad18d213221566d2"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/needs_icon_shadow.png" width = "150px"/></a>
+
+  
 </div>
 <br><br><br>
 
