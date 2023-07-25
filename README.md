@@ -104,9 +104,5 @@
 </div>
 <br><br>
 <div align="center"> <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=GiYeongUM&hide_border=false&theme=nightowl"/> </div>
-<br>
-<div align="center"> <img height='130px' src="https://github-readme-stats.vercel.app/api?username=GiYeongUM&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=nightowl"/> </div>
-<br>
-<div align="center"><a href="https://github.com/GiYeongUM"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiYeongUM&langs_count=5"/></a></div>
 
 
