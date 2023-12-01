@@ -25,6 +25,7 @@
 
 # About me
 ### [Personal notion page](https://giyeong-um.notion.site/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b) <sub> notion.so </sub>
+### [Profile & Portfolio page](https://giyeong.tyrannoapartment.com) <sub> working on it </sub>
 <br>
 
 
