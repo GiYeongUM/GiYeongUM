@@ -14,14 +14,8 @@
 - #### `Cross-platform APP Developer` <sup>Flutter</sup>
 - #### `Backend Developer` <sup>Nest.js</sup>
 - #### `Project Leader`
-
-
-# Career
-- `(주)웨이테크` (2020-07 ~ 2020-09) Android APP Engineer 현장실습 근무<br>
-- `(주)웨이테크` (2020-12 ~ 2021-07) Flutter APP Engineer 솔루션 앱 개발 근무<br>
-- `(주)라온스토리` (2021-08 ~ ) Flutter/Android/iOS APP Engineer, Backend Engineer, Project Leader 산업기능요원 보충역 복무시작 (2021.12)
 <br>
-<br>
+
 
 # About me
 ### [Personal notion page](https://giyeong-um.notion.site/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b) <sub> notion.so </sub>
