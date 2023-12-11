@@ -1,7 +1,4 @@
 # <div align="center">_GiYeongUM Profile_</div> 
-<br><br>
-<div align="center"><img src = "https://github.com/GiYeongUM/GiYeongUM/raw/main/PersonalLogo.svg" width = "250px"/><br/></div>
-<br><br>
 
 <div align="center"> 
 
