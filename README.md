@@ -7,7 +7,7 @@
 ### [Personal notion page](https://giyeong-um.notion.site/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b) <sub> notion.so </sub>
 
 
-> ### My flutter packages 
+> ### Flutter packages 
 >1. [icon_animated](https://pub.dev/packages/icon_animated) <sub> pub.dev </sub>
 >2. [flutter_icon_dialog](https://pub.dev/packages/flutter_icon_dialog) <sub> pub.dev </sub>
 >3. [flutter_icon_snackbar](https://pub.dev/packages/flutter_icon_snackbar) <sub> pub.dev </sub>
