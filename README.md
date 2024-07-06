@@ -8,8 +8,7 @@
 >2. [flutter_icon_dialog](https://pub.dev/packages/flutter_icon_dialog) <sub> pub.dev </sub>
 >3. [flutter_icon_snackbar](https://pub.dev/packages/flutter_icon_snackbar) <sub> pub.dev </sub>
 >4. [flutter_ellipsis_text](https://pub.dev/packages/flutter_ellipsis_text) <sub> pub.dev </sub>
->5. [nhn_payment](https://pub.dev/packages/nhn_payment) <sub> pub.dev </sub>
->6. [lettering_text](https://github.com/GiYeongUM/lettering_text) <sub> github.com </sub>
+>5. [lettering_text](https://github.com/GiYeongUM/lettering_text) <sub> github.com </sub>
 <br>
 
 <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=GiYeongUM&hide_border=false&theme=nightowl"/> </div>
