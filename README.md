@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Flutter-03a9f4?style=for-the-badge&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Nestjs-EA2845?style=for-the-badge&logo=Nestjs&logoColor=white"/>
 
-### [My notion](https://giyeong-um.notion.site/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b) <sub> notion.so </sub>
+### [My notion](https://giyeong-um.notion.site/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b) <sub> giyeong-um.notion.site </sub>
 
 
 > ### Flutter packages 
