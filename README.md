@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Flutter-03a9f4?style=for-the-badge&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Nestjs-EA2845?style=for-the-badge&logo=Nestjs&logoColor=white"/>
 
-### [My notion](https://giyeong-um.notion.site/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b) <sub> giyeong-um.notion.site </sub>
+### [notion](https://giyeong-um.notion.site/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b) <sub> giyeong-um.notion.site </sub>
 
 
 > ### Flutter packages 
@@ -11,5 +11,4 @@
 >5. [lettering_text](https://github.com/GiYeongUM/lettering_text) <sub> github.com </sub>
 <br>
 
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=GiYeongUM&hide_border=false&theme=nightowl"/> </div>
 
