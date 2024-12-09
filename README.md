@@ -10,5 +10,3 @@
 >4. [flutter_ellipsis_text](https://pub.dev/packages/flutter_ellipsis_text) <sub> pub.dev </sub>
 >5. [lettering_text](https://github.com/GiYeongUM/lettering_text) <sub> github.com </sub>
 <br>
-
-
