@@ -1,12 +1,29 @@
 
-### [notion](https://giyeong-um.notion.site/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b) <sub> giyeong-um.notion.site </sub>
+# GiYeong UM
 
+### Product Engineer
 
-> ## Flutter packages 
->1. [icon_animated](https://pub.dev/packages/icon_animated) <sub> pub.dev </sub>
->2. [flutter_icon_dialog](https://pub.dev/packages/flutter_icon_dialog) <sub> pub.dev </sub>
->3. [flutter_icon_snackbar](https://pub.dev/packages/flutter_icon_snackbar) <sub> pub.dev </sub>
->4. [flutter_ellipsis_text](https://pub.dev/packages/flutter_ellipsis_text) <sub> pub.dev </sub>
->5. [lettering_text](https://github.com/GiYeongUM/lettering_text) <sub> github.com </sub>
+Apps · Web · Backend · Infrastructure · AI
 
-<br>
+🧭 **Now**  
+Building products at the intersection of software, AI, and automation.
+
+🎯 **Focus**  
+Product Engineering · Developer Experience · AI-native Workflow
+
+🔗 **Links**  
+[Notion Profile](https://giyeong-um.notion.site/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b) · [LinkedIn](https://www.linkedin.com/in/giyeong-um/)
+
+## Experience
+
+[Getcha](https://web.getcha.kr)  ·  2026.07 ~ Present  
+Full-stack · AI Native · AI Automation
+
+[Logispot](https://logi-spot.com)  ·  2024.01 ~ 2026.07  
+Cross-platform Development
+
+[TyrannoApartment](https://www.tyrannoapartment.com/)  ·  2022.12 ~ Present  
+Tech Lead
+
+**Laon Story**  ·  2021.08 ~ 2024.01  
+Full-stack Development
