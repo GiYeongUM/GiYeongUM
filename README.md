@@ -23,7 +23,7 @@ Full-stack · AX Engineering
 Cross-platform Development
 
 [TyrannoApartment](https://www.tyrannoapartment.com/)  ·  2022.12 ~ Present  
-Tech Lead
+Tech Lead · AX Engineering
 
 **Laon Story**  ·  2021.08 ~ 2024.01  
 Full-stack Development
