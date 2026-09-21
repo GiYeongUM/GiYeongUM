@@ -17,7 +17,7 @@ Product Engineering · Developer Experience · AI-native Workflow
 ## Experience
 
 [Getcha](https://web.getcha.kr)  ·  2026.07 ~ Present  
-Full-stack · AI Native · AI Automation
+Full-stack · AX Engineering
 
 [Logispot](https://logi-spot.com)  ·  2024.01 ~ 2026.07  
 Cross-platform Development
