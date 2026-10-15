@@ -28,10 +28,6 @@ Tech Lead · AX Engineering & Operations
 **Laon Story**  ·  2021.08 ~ 2024.01  
 Full-stack Development · Enterprise Solutions
 
-## Building
-
 <a href="https://apdex.ai/?utm_source=github&amp;utm_medium=profile-readme&amp;utm_campaign=founder-profile">
-  <img src="assets/apdex-challenges.svg" alt="Apdex — AI challenges. Solve real problems with AI and submit your work for evaluation." width="100%" />
+  <img src="assets/apdex-card.svg" alt="Apdex — Build with AI. Learn from approved solutions. Visit apdex.ai." width="440" />
 </a>
-
-[Apdex](https://apdex.ai/) — solve real problems with AI and submit your work for evaluation.
