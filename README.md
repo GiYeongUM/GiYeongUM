@@ -29,5 +29,5 @@ Tech Lead · AX Engineering & Operations
 Full-stack Development · Enterprise Solutions
 
 <a href="https://apdex.ai/?utm_source=github&amp;utm_medium=profile-readme&amp;utm_campaign=founder-profile">
-  <img src="assets/apdex-card-dark.svg" alt="Apdex — Build with AI. Learn from approved solutions. Visit apdex.ai." width="440" />
+  <img src="assets/apdex-card-brand.svg" alt="Apdex — Build with AI. Learn from approved solutions. Visit apdex.ai." width="440" />
 </a>
