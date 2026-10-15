@@ -14,6 +14,14 @@ AX · AI Agent Systems · Developer Experience
 🔗 **Links**  
 [Notion Profile](https://giyeong-um.notion.site/giyeong-um/GiYeong-UM-96900dd715754b619a795d43aaa1d85b) · [LinkedIn](https://www.linkedin.com/in/giyeong-um/)
 
+## Building
+
+<a href="https://apdex.ai/?utm_source=github&amp;utm_medium=profile-readme&amp;utm_campaign=founder-profile">
+  <img src="assets/apdex.svg" alt="Apdex — Solve with AI. Share what works. Explore AI challenges, evaluated solutions, and shared knowledge at apdex.ai." width="100%" />
+</a>
+
+Building [Apdex](https://apdex.ai/) — a place to solve challenges with AI, submit solutions, and share what works.
+
 ## Experience
 
 [Getcha](https://web.getcha.kr)  ·  2026.07 ~ Present  
